@@ -34,17 +34,17 @@
     "portfolio": [
       {
         "name": "Mapeamento Digital de Visitas Domiciliares",
-        "description": "Sistema de mapeamento com Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência.",
+        "url": "Sistema de mapeamento com Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência.",
         "github": false
       },
       {
         "name": "Análise de Dados de Saúde",
-        "description": "Relatórios dinâmicos com Python e análises avançadas usando Pandas e Matplotlib.",
+        "url": "Relatórios dinâmicos com Python e análises avançadas usando Pandas e Matplotlib.",
         "github": false
       },
       {
         "name": "Plataforma de Currículo e Candidatura Online",
-        "description": "Plataforma web similar ao LinkedIn com PHP e Vue.js, automatizando o fluxo de recrutamento.",
+        "url": "Plataforma web similar ao LinkedIn com PHP e Vue.js, automatizando o fluxo de recrutamento.",
         "github": false
       }
     ],
@@ -68,26 +68,6 @@
           "Refatoração de código e otimização de performance para interfaces responsivas.",
           "Resolução de bugs e atualização de sistemas para uma nova interface utilizando Vue.js."
         ]
-      }
-    ],
-    "education": [
-      {
-        "degree": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
-        "institution": "UNINTER",
-        "location": "Taubaté, SP",
-        "completionYear": 2023
-      },
-      {
-        "degree": "Bootcamp Formação JavaScript Developer",
-        "institution": "Digital Innovation One (Dio)",
-        "completionYear": null
-      }
-    ],
-    "events": [
-      {
-        "name": "The Developer's Conference (TDC) São Paulo",
-        "date": "Setembro 2023",
-        "details": "Participação presencial na trilha de Testes, explorando automação e práticas de qualidade de software."
       }
     ]
   }
