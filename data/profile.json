@@ -1,24 +1,23 @@
 {
     "name": "Víctor Riolfi",
-    "photo": null,
+    "photo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/assets/img/eu%20(1).jpeg",
     "job": "Desenvolvedor Fullstack",
     "location": "Taubaté, SP - Brasil",
     "phone": "(12) 99122-6235",
     "email": "victorriolfisilva@gmail.com",
     "skills": {
       "hardSkills": [
-        { "name": "PHP", "logo": null },
-        { "name": "Node.js", "logo": null },
-        { "name": "Python", "logo": null },
-        { "name": "JavaScript", "logo": null },
-        { "name": "Vue.js", "logo": null },
-        { "name": "React", "logo": null },
-        { "name": "HTML", "logo": null },
-        { "name": "CSS", "logo": null },
-        { "name": "MySQL", "logo": null },
-        { "name": "SQL avançado", "logo": null },
-        { "name": "Docker", "logo": null },
-        { "name": "Git", "logo": null }
+        { "name": "PHP", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/php%20(1).png" },
+        { "name": "Node.js", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/nodejs.png" },
+        { "name": "Python", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/python.png" },
+        { "name": "JavaScript", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/js%20(1).png" },
+        { "name": "Vue.js", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/vue.png" },
+        { "name": "React", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/react.png" },
+        { "name": "HTML", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/html%20(1).png" },
+        { "name": "CSS", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/css%20(1).png" },
+        { "name": "MySQL", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/mysql.png" },
+        { "name": "Docker", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/docker%20(1).png" },
+        { "name": "Git", "logo": "https://raw.githubusercontent.com/Riolfi/portfolio/refs/heads/main/data/imgs/git%20(1).png" }
       ],
       "softSkills": [
         "Forte capacidade de comunicação",
