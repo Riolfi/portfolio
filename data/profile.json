@@ -34,17 +34,17 @@
     "portfolio": [
       {
         "name": "Mapeamento Digital de Visitas Domiciliares",
-        "url": "Sistema de mapeamento com Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência.",
+        "url": "Desenvolvi um sistema de mapeamento usando Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência. Gerenciei a lógica de roteamento no backend com PHP, garantindo maior eficiência operacional.",
         "github": false
       },
       {
         "name": "Análise de Dados de Saúde",
-        "url": "Relatórios dinâmicos com Python e análises avançadas usando Pandas e Matplotlib.",
+        "url": "Implementei relatórios dinâmicos com Python, utilizando bibliotecas como Pandas e Matplotlib para análises avançadas. Conduzi consultas complexas com SQL, identificando tendências em dados de comorbidades e ajudando no planejamento preventivo.",
         "github": false
       },
       {
         "name": "Plataforma de Currículo e Candidatura Online",
-        "url": "Plataforma web similar ao LinkedIn com PHP e Vue.js, automatizando o fluxo de recrutamento.",
+        "url": "Desenvolvi uma plataforma web que simulava funcionalidades do LinkedIn, utilizando PHP e Vue.js. Automatizei o fluxo de recrutamento interno e otimizei a gestão de candidaturas para empresas.",
         "github": false
       }
     ],

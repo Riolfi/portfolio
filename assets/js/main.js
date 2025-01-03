@@ -43,7 +43,7 @@ function updatePortfolio(profileData) {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-                <h4>${project.url}</h4>
+                <span>${project.url}</span>
             </li>
         `
     }).join('')
