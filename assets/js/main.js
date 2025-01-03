@@ -42,8 +42,8 @@ function updatePortfolio(profileData) {
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
             <li>
-                <h3>${project.name}</h3>
-                <h2>${project.description}</h2>
+                <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
+                <h4>${project.url}</h4>
             </li>
         `
     }).join('')
