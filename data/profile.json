@@ -34,31 +34,21 @@
     "portfolio": [
       {
         "name": "Mapeamento Digital de Visitas Domiciliares",
-        "url": "Sistema de mapeamento com Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência.",
+        "description": "Sistema de mapeamento com Vue.js integrado ao Google Maps API, otimizando rotas e priorizando atendimentos de urgência.",
         "github": false
       },
       {
         "name": "Análise de Dados de Saúde",
-        "url": "Relatórios dinâmicos com Python e análises avançadas usando Pandas e Matplotlib.",
+        "description": "Relatórios dinâmicos com Python e análises avançadas usando Pandas e Matplotlib.",
         "github": false
       },
       {
         "name": "Plataforma de Currículo e Candidatura Online",
-        "url": "Plataforma web similar ao LinkedIn com PHP e Vue.js, automatizando o fluxo de recrutamento.",
+        "description": "Plataforma web similar ao LinkedIn com PHP e Vue.js, automatizando o fluxo de recrutamento.",
         "github": false
       }
     ],
     "professionalExperience": [
-      {
-        "name": "Agente Municipal",
-        "company": "Prefeitura Municipal de Taubaté",
-        "period": "Maio 2024 – Presente",
-        "description": [
-          "Desenvolvimento de sistemas de gerenciamento de dados e relatórios para o setor de saúde.",
-          "Criação de banco de dados relacional para pacientes, comorbidades e consultas médicas.",
-          "Otimização de processos decisórios por meio da análise avançada de dados."
-        ]
-      },
       {
         "name": "Desenvolvedor Web",
         "company": "Thompson Management Horizons",
@@ -67,6 +57,16 @@
           "Implementação e manutenção de funcionalidades em plataforma de workflow empresarial.",
           "Refatoração de código e otimização de performance para interfaces responsivas.",
           "Resolução de bugs e atualização de sistemas para uma nova interface utilizando Vue.js."
+        ]
+      },
+      {
+        "name": "Agente Municipal",
+        "company": "Prefeitura Municipal de Taubaté",
+        "period": "Maio 2024 – Presente",
+        "description": [
+          "Desenvolvimento de sistemas de gerenciamento de dados e relatórios para o setor de saúde.",
+          "Criação de banco de dados relacional para pacientes, comorbidades e consultas médicas.",
+          "Otimização de processos decisórios por meio da análise avançada de dados."
         ]
       }
     ]
