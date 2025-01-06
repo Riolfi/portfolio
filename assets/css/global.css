@@ -65,3 +65,37 @@ a:hover {
         width: 70vw;
     }
 }
+
+.social-buttons {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.social-buttons .button {
+    padding: 0.5rem 1rem;
+    border-left: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.social-buttons .github {
+    background-color: #333;
+}
+
+.social-buttons .github:hover {
+    background-color: #555;
+}
+
+.social-buttons .linkedin {
+    background-color: #0077b5;
+}
+
+.social-buttons .linkedin:hover {
+    background-color: #005582;
+}

@@ -13,9 +13,16 @@ function updateProfileInfo(profileData) {
     const location = document.getElementById('profile.location')
     location.innerText = profileData.location
 
-    const phone = document.getElementById('profile.phone')
-    phone.innerText = profileData.phone
-    phone.href = `tel:${profileData.phone}`
+    const phone = document.getElementById('profile.phone');
+    const phoneNumber = profileData.phone.replace(/[^0-9]/g, ''); // Remove caracteres não numéricos
+    phone.innerText = profileData.phone;
+    phone.href = `https://wa.me/55${phoneNumber}`;
+
+
+
+    // const phone = document.getElementById('profile.phone')
+    // phone.innerText = profileData.phone
+    // phone.href = `tel:${profileData.phone}`
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
@@ -71,3 +78,18 @@ function updateProfessionalExperience(profileData) {
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
 })()
+
+// const phoneElement = document.getElementById('profile.phone');
+// function updateProfileInfo(profileData) {
+//     const phoneElement = document.getElementById('profile.phone');
+//     const phoneNumber = profileData.phone.replace(/[^0-9]/g, ''); // Remove caracteres não numéricos
+//     phoneElement.innerText = profileData.phone;
+//     phoneElement.href = `https://wa.me/55${phoneNumber}`;
+// }
+
+// // Simulação do JSON sendo carregado
+// (async () => {
+//     const profileData = await fetchProfileData();
+//     updateProfileInfo(profileData);
+// })();
+
